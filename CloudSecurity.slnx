@@ -1,5 +1,9 @@
 <Solution>
-  <Project Path="CloudSecurity.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="requirements.txt" />
+  </Folder>
+  <Project Path="CloudSecurity.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="c92846cb-347b-4791-bce5-73c31b8ed55d">
     <Build Project="false" />
   </Project>
 </Solution>
